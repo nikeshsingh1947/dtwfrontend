@@ -1,6 +1,6 @@
 import React from 'react';
 import { useState } from "react";
-import 'bootstrap/dist/css/bootstrap.min.css'; 
+// import 'bootstrap/dist/css/bootstrap.min.css'; 
 import { useDispatch, useSelector } from "react-redux";
 import { Postuser } from "../Redux/AuthRedux/action";
 import { useNavigate,Link } from "react-router-dom";
